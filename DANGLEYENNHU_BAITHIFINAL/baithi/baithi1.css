@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+#outer{
+	width: 1440px;
+	height: 2567px;
+/*	background: rgba(240,181,182,1.00);*/
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	height: 238px;
+	background: rgba(44,132,36,1.00)
+}
+.right{
+	width: 80%;
+	height: 238px;
+	float: right;
+	background: rgba(83,186,74,1.00);
+}
+.right p{
+	float: right;
+	margin-top: 80px;
+	margin-right: 900px;
+}
+.right p1{
+	float: right;
+	margin-top: -70px;
+	margin-right: 500px
+}
+.right p2{
+	float: right;
+	margin-top: -70px;
+	margin-right: 300px
+}
+.right p3{
+	float: right;
+	margin-top: -70px;
+	margin-right: -410px
+}
+.section2{
+	width: 100%;
+	height: 290px;
+	background: rgba(83,186,74,1.00);
+}
+.section2 p{
+	margin-top: 20px;
+}
+.section3 {
+	width: 100%;
+	height: 600px;
+	background: rgba(83,186,74,1.00);
+	margin-top:20px;
+}
+.left{
+	float: left;
+	width: 55%;
+	height: 600px;
+	background: rgba(201,96,97,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 20%;
+	margin-left: 30px;
+	background-image: url("../../../Downloads/185782584_4058295424246855_7377976729225303240_n.jpg");
+}
+.right1{
+	float: right;
+	width: 35%;
+	height: 600px;
+	background: rgba(139,233,135,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 20%;
+	margin-right: 30px;
+}
+.right1 p{
+	margin-top:120px;
+	margin-left: 60px;
+}
+.section4{
+	width: 100%;
+	height: 400px;
+	background: rgba(237,223,223,1.00);
+	margin-top:20px;
+}
+.left1{
+	float: left;
+	width: 25%;
+	height: 250px;
+	background: rgba(244,236,236,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 50%;
+	margin-left: 30px;
+	margin-top:120px;
+	background-image: url("../../../Downloads/0002732_hdeta_bogodrink_m_300.png");
+}
+.center{
+	float: left;
+	width: 25%;
+	height: 250px;
+	background: rgba(244,236,236,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 50%;
+	margin-left: 90px;
+	margin-top:20px;
+	background-image: url("../../../Downloads/0002704_combo-3-gan-ket-699k-glasscan_300.png");
+}
+.right2{
+	float: right;
+	width: 25%;
+	height: 250px;
+	background: rgba(244,236,236,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 50%;
+	margin-right: 140px;
+	margin-top:20px;
+	background-image: url("../../../Downloads/0002704_combo-3-gan-ket-699k-glasscan_300.png");
+}
+.section5{
+	width: 100%;
+	height: 300px;
+	background: rgba(237,223,223,1.00);
+	margin-top: 20px;
+}
+.a{
+	width: 40%;
+	height: 100px;
+	background: rgba(90,206,103,1.00);
+	margin-left: 400px;
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 40%;
+	
+}
+.left2{
+	float: left;
+	width: 25%;
+	height: 200px;
+	background: rgba(244,236,236,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 50%;
+	margin-left: 30px;
+	margin-top:-20px;
+	background-image: url("../../../Downloads/0002253_spaghetti-spicy-seafood_300.png");
+}
+.center1{
+	float: left;
+	width: 25%;
+	height: 180px;
+	background: rgba(244,236,236,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 50%;
+	margin-left: 90px;
+	margin-top:0px;
+	background-image: url("../../../Downloads/0002257_spaghetti-shrimp-rose_300.png");
+}
+.right3{
+	float: right;
+	width: 25%;
+	height: 200px;
+	background: rgba(244,236,236,1.00);
+	border: 1px solid rgba(92,215,84,1.00);
+	border-radius: 50%;
+	margin-right: 140px;
+	margin-top:-20px;
+	background-image: url("../../../Downloads/0002253_spaghetti-spicy-seafood_300.png");
+}
+.footer{
+	width: 100%;
+	height: 80px;
+	background: rgba(139,233,135,1.00);
+}
+.footer spand{
+	font-size: 50px;
+	margin-top:100px;
+	margin-left: 480px;
+	font-family: impact;
+}
+
